@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TP-04
+Bundle-SymbolicName: TP-04
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: TP
+Bundle-RequiredExecutionEnvironment: JavaSE-17
